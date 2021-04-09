@@ -1,0 +1,397 @@
+{
+  "age_limit": 12,
+  "bucket": "games",
+  "container_type": "product",
+  "content_origin": 0,
+  "content_rating": {
+    "description": "Rating12+",
+    "rating_system": "RAR",
+    "url": "https://cdn-a.sonyentertainmentnetwork.com/grc/images/ratings/hd/rar/12.png"
+  },
+  "content_type": "1",
+  "default_sku": {
+    "amortizeFlag": false,
+    "augmented_description": "<b><font color=\"orange\">«Предзаказ - Требует немедленной оплаты»</font></b><br><br/>Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS4™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».<br/><br/>",
+    "bundleExclusiveFlag": false,
+    "chargeImmediatelyFlag": false,
+    "charge_type_id": 0,
+    "credit_card_required_flag": 0,
+    "defaultSku": true,
+    "display_price": "RUB 2.149",
+    "eligibilities": [
+      {
+        "id": "EP0082-CUSA24496_00-EPRE01",
+        "operand": "IS_ACTIVE",
+        "operator": "FALSE",
+        "rightOperand": null,
+        "name": "Legend of Mana Pre-Order",
+        "description": null,
+        "entitlement_type": null,
+        "drms": []
+      }
+    ],
+    "end_date": "2021-06-23T21:00:00Z",
+    "entitlements": [
+      {
+        "description": null,
+        "drms": [],
+        "duration": 0,
+        "durationOverrideTypeId": null,
+        "exp_after_first_use": 0,
+        "feature_type_id": 0,
+        "id": "EP0082-CUSA24496_00-GP00000000001123",
+        "license_type": 0,
+        "metadata": null,
+        "name": "Legend of Mana",
+        "packageType": "PS4GD",
+        "packages": [
+          {
+            "platformId": 13,
+            "platformName": "ps4",
+            "size": 0
+          }
+        ],
+        "preorder_placeholder_flag": false,
+        "size": 0,
+        "subType": 0,
+          "subtitle_1uage_codes": null,
+        "type": 5,
+        "use_count": 0,
+        "voice_language_codes": null
+      }
+    ],
+    "id": "EP0082-CUSA24496_00-LOMPS4EU00000001-E001",
+    "is_original": false,
+    "name": "Игра",
+    "platforms": [
+      0,
+      18,
+      10,
+      13
+    ],
+    "playability_date": "2021-06-23T21:00:00Z",
+    "price": 214900,
+    "rewards": [],
+    "seasonPassExclusiveFlag": false,
+    "skuAvailabilityOverrideFlag": false,
+    "sku_type": 6,
+    "type": "pre-order",
+    "wallet_charge_date": "2021-06-23T21:00:00Z"
+  },
+  "dob_required": false,
+  "gameContentTypesList": [
+    {
+      "name": "Полная версия",
+      "key": "FULL_GAME"
+    }
+  ],
+  "game_contentType": "Полная версия",
+  "id": "EP0082-CUSA24496_00-LOMPS4EU00000001",
+  "images": [
+    {
+      "type": 10,
+      "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/9X9ueJEM8KfjMoxzsRJc1Nll.png"
+    },
+    {
+      "type": 12,
+      "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/p4zsrjLeKcC0gD3A8aVHPlUa.png"
+    },
+    {
+      "type": 13,
+      "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/geiTbITRmhpbih9EnJZLZBf6.png"
+    }
+  ],
+  "links": [],
+  "long_desc": "<b>Чтобы играть в эту игру на PS5, возможно, потребуется обновить системное программное обеспечение. Хотя эта игра поддерживается на PS5, некоторые функции, доступные в PS4, могут отсутствовать. Более подробная информация приведена на странице PlayStation.com/bc.</b><br>Обновленная HD-версия Legend of Mana готовится к выходу на PlayStation®4.<br/><br/>Отправьтесь на поиски мистического Древа Маны, которое увидели во сне, чтобы обнаружить... что карта мира пуста! Во время своих путешествий вы найдете особые артефаты, которые можно поместить на карту мира в любом месте. Так вы сможете создать города и подземелья и продвинуться дальше в игре.<br/><br/>Вы встретите колоритных персонажей, сразитесь с ужасными чудовищами и сможете исследовать огромный мир Fa'Diel. Музыка для этого ремастера была обновлена, но вы сможете сами выбрать какой саундтрек использовать. Были добавлены и иные воможности: вы сможете отключить случайные столкновения с врагами, а также сыграть в новую мини-игру «Ring Ring Land».<br/><br/><br/>Автономная многопользовательская игра (2 игрока)<br/>Используется функция вибрации DUALSHOCK 4<br/>Дистанционная игра которое позволяет пользователям подключаться к своей системе PlayStation®4 или PlayStation®5 через мобильное устройство, компьютер или другую систему PlayStation®4 или PlayStation®5 и играть в игры на ней.<br/>Доступна автономная игра<br/><br><br>Загрузка осуществляется в соответствии с Условиями обслуживания PlayStation Network, Условиями использования программ и любыми другими применимыми дополнительными документами. Если вы не согласны выполнять условия, не загружайте материалы. Дополнительная информация приведена в Условиях обслуживания.<br><br> Разовая лицензионная плата за право загрузки на несколько систем PS4. Вход в PlayStation Network не требуется при использовании на вашей основной системе PS4, но необходим при использовании на других системах PS4.<br><br>Перед использованием продукта ознакомьтесь с «Мерами предосторожности», важными для вашего здоровья.<br><br>Библиотечные программы ©Sony Interactive Entertainment Inc., эксклюзивно лицензированы Sony Interactive Entertainment Europe. Действуют Условия использования программ. Полный текст Условий использования см. на сайте ru.playstation.com/legal.<br>",
+  "mediaList": {
+    "screenshots": [
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/jlXJrRw5KLyAyJo8Vj2oNVBU.jpg",
+        "order": 0
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/4n22dp6sjQYzx6KYYI49B9Dr.jpg",
+        "order": 1
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/omsyPeHY6uEHv8Pp8R9sefw7.jpg",
+        "order": 2
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/YcBxWXDUZmaZD7zPa08ElMzM.jpg",
+        "order": 3
+      },
+      {
+        "type": "SCREENSHOT",
+        "typeId": 4,
+        "source": "PRODUCT_MEDIA",
+        "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/pRYbl7bInnJY0ZGVTOVUd1UL.jpg",
+        "order": 4
+      }
+    ]
+  },
+  "media_layouts": [
+    {
+      "type": "description",
+      "height": 1,
+      "width": 4
+    }
+  ],
+  "metadata": {
+    "cn_remotePlay": {
+      "name": "cn_remotePlay",
+      "values": [
+        "TRUE"
+      ]
+    },
+    "cn_vrEnabled": {
+      "name": "cn_vrEnabled",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_playstationMove": {
+      "name": "cn_playstationMove",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "secondary_classification": {
+      "name": "secondary_classification",
+      "values": [
+        "GAME"
+      ]
+    },
+    "cn_vrRequired": {
+      "name": "cn_vrRequired",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "game_genre": {
+      "name": "Жанр",
+      "values": [
+        "ROLE_PLAYING_GAMES",
+        "ACTION"
+      ]
+    },
+    "cn_psEnhanced": {
+      "name": "cn_psEnhanced",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "playable_platform": {
+      "name": "playable_platform",
+      "values": [
+        "PS4™"
+      ]
+    },
+    "cn_numberOfPlayers": {
+      "name": "cn_numberOfPlayers",
+      "values": [
+        "2"
+      ]
+    },
+    "cn_dualshockVibration": {
+      "name": "cn_dualshockVibration",
+      "values": [
+        "TRUE"
+      ]
+    },
+    "tertiary_classification": {
+      "name": "tertiary_classification",
+      "values": [
+        "NA"
+      ]
+    },
+    "container_type": {
+      "name": "Тип контейнера",
+      "values": [
+        "NP_PS4_REPRESENTATIVE"
+      ]
+    },
+    "genre": {
+      "name": "Жанр",
+      "values": [
+        "Ролевые игры",
+        "Боевик"
+      ]
+    },
+    "cn_inGamePurchases": {
+      "name": "cn_inGamePurchases",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_offlinePlayMode": {
+      "name": "cn_offlinePlayMode",
+      "values": [
+        "ENABLED"
+      ]
+    },
+    "cn_psVrAimRequired": {
+      "name": "cn_psVrAimRequired",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_playstationCamera": {
+      "name": "cn_playstationCamera",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_singstarMicrophone": {
+      "name": "cn_singstarMicrophone",
+      "values": [
+        "NOTREQUIRED"
+      ]
+    },
+    "cn_crossPlatformPSVita": {
+      "name": "cn_crossPlatformPSVita",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "cn_psVrAimEnabled": {
+      "name": "cn_psVrAimEnabled",
+      "values": [
+        "FALSE"
+      ]
+    },
+    "primary_classification": {
+      "name": "primary_classification",
+      "values": [
+        "PREMIUM_GAME"
+      ]
+    }
+  },
+  "name": "Legend of Mana",
+  "pageTypeId": 2,
+  "playable_platform": [
+    "PS4™"
+  ],
+  "promomedia": [],
+  "provider_name": "Square Enix LTD",
+  "release_date": "2021-06-24T00:00:00Z",
+  "restricted": false,
+  "revision": 3,
+  "short_name": "Legend of Mana",
+  "size": 0,
+  "sku_links": [],
+  "skus": [
+    {
+      "amortizeFlag": false,
+      "augmented_description": "<b><font color=\"orange\">«Предзаказ - Требует немедленной оплаты»</font></b><br><br/>Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS4™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».<br/><br/>",
+      "bundleExclusiveFlag": false,
+      "chargeImmediatelyFlag": false,
+      "charge_type_id": 0,
+      "credit_card_required_flag": 0,
+      "defaultSku": true,
+      "display_price": "RUB 2.149",
+      "eligibilities": [
+        {
+          "id": "EP0082-CUSA24496_00-EPRE01",
+          "operand": "IS_ACTIVE",
+          "operator": "FALSE",
+          "rightOperand": null,
+          "name": "Legend of Mana Pre-Order",
+          "description": null,
+          "entitlement_type": null,
+          "drms": []
+        }
+      ],
+      "end_date": "2021-06-23T21:00:00Z",
+      "entitlements": [
+        {
+          "description": null,
+          "drms": [],
+          "duration": 0,
+          "durationOverrideTypeId": null,
+          "exp_after_first_use": 0,
+          "feature_type_id": 0,
+          "id": "EP0082-CUSA24496_00-GP00000000001123",
+          "license_type": 0,
+          "metadata": null,
+          "name": "Legend of Mana",
+          "packageType": "PS4GD",
+          "packages": [
+            {
+              "platformId": 13,
+              "platformName": "ps4",
+              "size": 0
+            }
+          ],
+          "preorder_placeholder_flag": false,
+          "size": 0,
+          "subType": 0,
+          "subtitle_language_codes": null,
+          "type": 5,
+          "use_count": 0,
+          "voice_language_codes": null
+        }
+      ],
+      "id": "EP0082-CUSA24496_00-LOMPS4EU00000001-E001",
+      "is_original": false,
+      "name": "Игра",
+      "platforms": [
+        0,
+        18,
+        10,
+        13
+      ],
+      "playability_date": "2021-06-23T21:00:00Z",
+      "price": 214900,
+      "rewards": [],
+      "seasonPassExclusiveFlag": false,
+      "skuAvailabilityOverrideFlag": false,
+      "sku_type": 6,
+      "type": "pre-order",
+      "wallet_charge_date": "2021-06-23T21:00:00Z"
+    }
+  ],
+  "star_rating": {
+    "total": "9",
+    "score": "5.00",
+    "count": [
+      {
+        "star": 1,
+        "count": 0
+      },
+      {
+        "star": 2,
+        "count": 0
+      },
+      {
+        "star": 3,
+        "count": 0
+      },
+      {
+        "star": 4,
+        "count": 0
+      },
+      {
+        "star": 5,
+        "count": 9
+      }
+    ]
+  },
+  "start": 0,
+  "timestamp": 1613607232000,
+  "title_name": "Legend of Mana",
+  "top_category": "downloadable_game",
+  "total_results": 0
+}

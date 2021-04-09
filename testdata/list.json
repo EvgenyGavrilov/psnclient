@@ -1,0 +1,953 @@
+{
+  "age_limit": 0,
+  "attributes": {
+    "facets": {
+      "game_content_type": [
+        {
+          "name": "Комплекты",
+          "count": 1595,
+          "key": "bundles"
+        },
+        {
+          "name": "Игры",
+          "count": 5436,
+          "key": "games"
+        },
+        {
+          "name": "Демоверсия",
+          "count": 4,
+          "key": "timed_trials"
+        }
+      ],
+      "subtitle_lang": [
+        {
+          "name": "ar",
+          "count": 254,
+          "key": "ar"
+        },
+        {
+          "name": "bg",
+          "count": 3,
+          "key": "bg"
+        },
+        {
+          "name": "ca",
+          "count": 8,
+          "key": "ca"
+        },
+        {
+          "name": "ch",
+          "count": 666,
+          "key": "ch"
+        },
+        {
+          "name": "cs",
+          "count": 66,
+          "key": "cs"
+        },
+        {
+          "name": "cy",
+          "count": 1,
+          "key": "cy"
+        },
+        {
+          "name": "da",
+          "count": 266,
+          "key": "da"
+        },
+        {
+          "name": "de",
+          "count": 3374,
+          "key": "de"
+        },
+        {
+          "name": "el",
+          "count": 27,
+          "key": "el"
+        },
+        {
+          "name": "en",
+          "count": 4736,
+          "key": "en"
+        },
+        {
+          "name": "en_bh",
+          "count": 1,
+          "key": "en_bh"
+        },
+        {
+          "name": "en_cl",
+          "count": 1,
+          "key": "en_cl"
+        },
+        {
+          "name": "en_cz",
+          "count": 37,
+          "key": "en_cz"
+        },
+        {
+          "name": "en_gb",
+          "count": 3,
+          "key": "en_gb"
+        },
+        {
+          "name": "en_gr",
+          "count": 5,
+          "key": "en_gr"
+        },
+        {
+          "name": "en_hr",
+          "count": 5,
+          "key": "en_hr"
+        },
+        {
+          "name": "en_hu",
+          "count": 21,
+          "key": "en_hu"
+        },
+        {
+          "name": "en_ro",
+          "count": 3,
+          "key": "en_ro"
+        },
+        {
+          "name": "en_sk",
+          "count": 5,
+          "key": "en_sk"
+        },
+        {
+          "name": "es",
+          "count": 3252,
+          "key": "es"
+        },
+        {
+          "name": "es_mx",
+          "count": 222,
+          "key": "es_mx"
+        },
+        {
+          "name": "eu",
+          "count": 1,
+          "key": "eu"
+        },
+        {
+          "name": "fi",
+          "count": 208,
+          "key": "fi"
+        },
+        {
+          "name": "fr",
+          "count": 3379,
+          "key": "fr"
+        },
+        {
+          "name": "fr_be",
+          "count": 4,
+          "key": "fr_be"
+        },
+        {
+          "name": "fr_ca",
+          "count": 39,
+          "key": "fr_ca"
+        },
+        {
+          "name": "gd",
+          "count": 1,
+          "key": "gd"
+        },
+        {
+          "name": "hi",
+          "count": 4,
+          "key": "hi"
+        },
+        {
+          "name": "hr",
+          "count": 5,
+          "key": "hr"
+        },
+        {
+          "name": "hu",
+          "count": 36,
+          "key": "hu"
+        },
+        {
+          "name": "in",
+          "count": 3,
+          "key": "in"
+        },
+        {
+          "name": "it",
+          "count": 2776,
+          "key": "it"
+        },
+        {
+          "name": "ja",
+          "count": 1180,
+          "key": "ja"
+        },
+        {
+          "name": "ko",
+          "count": 778,
+          "key": "ko"
+        },
+        {
+          "name": "ms",
+          "count": 1,
+          "key": "ms"
+        },
+        {
+          "name": "nl",
+          "count": 526,
+          "key": "nl"
+        },
+        {
+          "name": "no",
+          "count": 226,
+          "key": "no"
+        },
+        {
+          "name": "pl",
+          "count": 1284,
+          "key": "pl"
+        },
+        {
+          "name": "pl_pl",
+          "count": 4,
+          "key": "pl_pl"
+        },
+        {
+          "name": "pt",
+          "count": 634,
+          "key": "pt"
+        },
+        {
+          "name": "pt_br",
+          "count": 988,
+          "key": "pt_br"
+        },
+        {
+          "name": "pt_pt",
+          "count": 2,
+          "key": "pt_pt"
+        },
+        {
+          "name": "ro",
+          "count": 12,
+          "key": "ro"
+        },
+        {
+          "name": "ru",
+          "count": 2227,
+          "key": "ru"
+        },
+        {
+          "name": "ru_ua",
+          "count": 15,
+          "key": "ru_ua"
+        },
+        {
+          "name": "sk",
+          "count": 2,
+          "key": "sk"
+        },
+        {
+          "name": "sl",
+          "count": 2,
+          "key": "sl"
+        },
+        {
+          "name": "sv",
+          "count": 248,
+          "key": "sv"
+        },
+        {
+          "name": "th",
+          "count": 14,
+          "key": "th"
+        },
+        {
+          "name": "tr",
+          "count": 349,
+          "key": "tr"
+        },
+        {
+          "name": "uk",
+          "count": 14,
+          "key": "uk"
+        },
+        {
+          "name": "zh",
+          "count": 997,
+          "key": "zh"
+        }
+      ],
+      "release_date": [
+        {
+          "name": "Скоро выходят",
+          "count": 37,
+          "key": "coming_soon"
+        },
+        {
+          "name": "За последние 7 дней",
+          "count": 35,
+          "key": "last_7_days"
+        },
+        {
+          "name": "За последние 30 дней",
+          "count": 128,
+          "key": "last_30_days"
+        }
+      ],
+      "game_demo": [
+        {
+          "name": "true",
+          "count": 313,
+          "key": "true"
+        }
+      ],
+      "price": [
+        {
+          "name": "До RUB 50",
+          "count": 4,
+          "key": "0-5000"
+        },
+        {
+          "name": "RUB 50.00 - 99.99",
+          "count": 34,
+          "key": "5000-9999"
+        },
+        {
+          "name": "RUB 100.00 - 249.99",
+          "count": 287,
+          "key": "10000-24999"
+        },
+        {
+          "name": "RUB 250.00 - 499.99",
+          "count": 1094,
+          "key": "25000-49999"
+        },
+        {
+          "name": "RUB 500.00 - 999.99",
+          "count": 1739,
+          "key": "50000-99999"
+        },
+        {
+          "name": "RUB 1000.00 - 1499.99",
+          "count": 1791,
+          "key": "100000-149999"
+        },
+        {
+          "name": "RUB 1500.00 - 1999.99",
+          "count": 484,
+          "key": "150000-199999"
+        },
+        {
+          "name": "RUB 2000.00 - 2499.99",
+          "count": 554,
+          "key": "200000-249999"
+        },
+        {
+          "name": "Свыше RUB 2500",
+          "count": 1177,
+          "key": "250000-*"
+        }
+      ],
+      "genre": [
+        {
+          "name": "Боевик",
+          "count": 2895,
+          "key": "action"
+        },
+        {
+          "name": "Для взрослых",
+          "count": 4,
+          "key": "adult"
+        },
+        {
+          "name": "Приключения",
+          "count": 1937,
+          "key": "adventure"
+        },
+        {
+          "name": "Аркада",
+          "count": 944,
+          "key": "arcade"
+        },
+        {
+          "name": "Тренировка мозга",
+          "count": 32,
+          "key": "brain_training"
+        },
+        {
+          "name": "Казуальные",
+          "count": 439,
+          "key": "casual"
+        },
+        {
+          "name": "Образовательные",
+          "count": 33,
+          "key": "educational"
+        },
+        {
+          "name": "Семейные",
+          "count": 366,
+          "key": "family"
+        },
+        {
+          "name": "Единоборства",
+          "count": 289,
+          "key": "fighting"
+        },
+        {
+          "name": "Фитнес",
+          "count": 14,
+          "key": "fitness"
+        },
+        {
+          "name": "Ужасы",
+          "count": 319,
+          "key": "horror"
+        },
+        {
+          "name": "Музыка и ритм",
+          "count": 125,
+          "key": "musicrhythm"
+        },
+        {
+          "name": "Тусовка",
+          "count": 145,
+          "key": "party"
+        },
+        {
+          "name": "Пазлы",
+          "count": 743,
+          "key": "puzzle"
+        },
+        {
+          "name": "Гонки",
+          "count": 410,
+          "key": "racing"
+        },
+        {
+          "name": "Ролевые игры",
+          "count": 863,
+          "key": "role_playing_games"
+        },
+        {
+          "name": "Шутер",
+          "count": 849,
+          "key": "shooter"
+        },
+        {
+          "name": "Симуляторы",
+          "count": 385,
+          "key": "simulation"
+        },
+        {
+          "name": "Симуляторы",
+          "count": 21,
+          "key": "simulator"
+        },
+        {
+          "name": "Спорт",
+          "count": 368,
+          "key": "sports"
+        },
+        {
+          "name": "Стратегия",
+          "count": 466,
+          "key": "strategy"
+        },
+        {
+          "name": "Уникальные",
+          "count": 435,
+          "key": "unique"
+        }
+      ],
+      "top_category": [
+        {
+          "name": "Демоверсия",
+          "count": 4,
+          "key": "demo"
+        },
+        {
+          "name": "Дисковая игра",
+          "count": 154,
+          "key": "disc_based_game"
+        },
+        {
+          "name": "Загружаемая игра",
+          "count": 7214,
+          "key": "downloadable_game"
+        },
+        {
+          "name": "Игровые данные",
+          "count": 24,
+          "key": "game_content"
+        }
+      ],
+      "voice_lang": [
+        {
+          "name": "ar",
+          "count": 64,
+          "key": "ar"
+        },
+        {
+          "name": "ch",
+          "count": 37,
+          "key": "ch"
+        },
+        {
+          "name": "cs",
+          "count": 8,
+          "key": "cs"
+        },
+        {
+          "name": "da",
+          "count": 35,
+          "key": "da"
+        },
+        {
+          "name": "de",
+          "count": 722,
+          "key": "de"
+        },
+        {
+          "name": "el",
+          "count": 11,
+          "key": "el"
+        },
+        {
+          "name": "en",
+          "count": 2514,
+          "key": "en"
+        },
+        {
+          "name": "en_cz",
+          "count": 2,
+          "key": "en_cz"
+        },
+        {
+          "name": "es",
+          "count": 586,
+          "key": "es"
+        },
+        {
+          "name": "es_mx",
+          "count": 37,
+          "key": "es_mx"
+        },
+        {
+          "name": "fi",
+          "count": 28,
+          "key": "fi"
+        },
+        {
+          "name": "fr",
+          "count": 686,
+          "key": "fr"
+        },
+        {
+          "name": "it",
+          "count": 533,
+          "key": "it"
+        },
+        {
+          "name": "ja",
+          "count": 502,
+          "key": "ja"
+        },
+        {
+          "name": "ja_jp",
+          "count": 1,
+          "key": "ja_jp"
+        },
+        {
+          "name": "ko",
+          "count": 33,
+          "key": "ko"
+        },
+        {
+          "name": "nl",
+          "count": 66,
+          "key": "nl"
+        },
+        {
+          "name": "no",
+          "count": 39,
+          "key": "no"
+        },
+        {
+          "name": "pl",
+          "count": 208,
+          "key": "pl"
+        },
+        {
+          "name": "pt",
+          "count": 92,
+          "key": "pt"
+        },
+        {
+          "name": "pt_br",
+          "count": 77,
+          "key": "pt_br"
+        },
+        {
+          "name": "ro",
+          "count": 2,
+          "key": "ro"
+        },
+        {
+          "name": "ru",
+          "count": 355,
+          "key": "ru"
+        },
+        {
+          "name": "ru_ua",
+          "count": 4,
+          "key": "ru_ua"
+        },
+        {
+          "name": "sv",
+          "count": 32,
+          "key": "sv"
+        },
+        {
+          "name": "tr",
+          "count": 34,
+          "key": "tr"
+        },
+        {
+          "name": "zh",
+          "count": 62,
+          "key": "zh"
+        }
+      ],
+      "game_type": [
+        {
+          "name": "Комплекты",
+          "count": 1595,
+          "key": "bundles"
+        },
+        {
+          "name": "Только на диске",
+          "count": 139,
+          "key": "disc_only"
+        },
+        {
+          "name": "minis",
+          "count": 204,
+          "key": "minis"
+        },
+        {
+          "name": "Классические PS2",
+          "count": 79,
+          "key": "ps2_classics"
+        },
+        {
+          "name": "Полные версии PS3™",
+          "count": 336,
+          "key": "ps3_full_games"
+        },
+        {
+          "name": "Полные версии PS4™",
+          "count": 2199,
+          "key": "ps4_full_games"
+        },
+        {
+          "name": "Игры PS Vita",
+          "count": 765,
+          "key": "ps_vita_games"
+        },
+        {
+          "name": "Игры PSN",
+          "count": 1483,
+          "key": "psn_games"
+        },
+        {
+          "name": "Классика PS one®",
+          "count": 126,
+          "key": "psone_classics"
+        },
+        {
+          "name": "Игры PSP®",
+          "count": 25,
+          "key": "psp_games"
+        },
+        {
+          "name": "Игры PS VR",
+          "count": 296,
+          "key": "vr_games"
+        }
+      ],
+      "relationship": [
+        {
+          "name": "Комплекты",
+          "count": 1610,
+          "key": "bundles"
+        },
+        {
+          "name": "Демоверсии",
+          "count": 4,
+          "key": "demos"
+        },
+        {
+          "name": "Другие дополнения",
+          "count": 5462,
+          "key": "extras"
+        }
+      ],
+      "platform": [
+        {
+          "name": "PS4™",
+          "count": 4800,
+          "key": "ps4"
+        },
+        {
+          "name": "PS3™",
+          "count": 1752,
+          "key": "ps3"
+        },
+        {
+          "name": "PSP®",
+          "count": 576,
+          "key": "psp"
+        },
+        {
+          "name": "PS Vita",
+          "count": 1442,
+          "key": "vita"
+        },
+        {
+          "name": "ps5",
+          "count": 139,
+          "key": "ps5"
+        }
+      ]
+    },
+    "next": []
+  },
+  "container_type": "container",
+  "content_origin": 0,
+  "dob_required": false,
+  "id": "STORE-MSF75508-FULLGAMES",
+  "images": [],
+  "links": [
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "default_sku": {
+        "amortizeFlag": false,
+        "augmented_description": "<b><font color=\"orange\">«Предзаказ - Требует немедленной оплаты»</font></b><br><br/>Подробнее о предварительном заказе, в том числе и о его отмене, можно узнать из Условий обслуживания и Лицензионного соглашения Sony Entertainment Network. Автоматическая загрузка осуществляется, если на системе PS4™ включены настройки «Автоматический вход в систему» и «Автоматический вход в сеть».<br/><br/>",
+        "bundleExclusiveFlag": false,
+        "chargeImmediatelyFlag": false,
+        "charge_type_id": 0,
+        "credit_card_required_flag": 0,
+        "defaultSku": true,
+        "display_price": "RUB 2.149",
+        "eligibilities": [
+          {
+            "id": "EP0082-CUSA24496_00-EPRE01",
+            "operand": "IS_ACTIVE",
+            "operator": "FALSE",
+            "rightOperand": null,
+            "name": "Legend of Mana Pre-Order",
+            "description": null,
+            "entitlement_type": null,
+            "drms": []
+          }
+        ],
+        "end_date": "2021-06-23T21:00:00Z",
+        "entitlements": [
+          {
+            "description": null,
+            "drms": [],
+            "duration": 0,
+            "durationOverrideTypeId": null,
+            "exp_after_first_use": 0,
+            "feature_type_id": 0,
+            "id": "EP0082-CUSA24496_00-GP00000000001123",
+            "license_type": 0,
+            "metadata": null,
+            "name": "Legend of Mana",
+            "packageType": "PS4GD",
+            "packages": [
+              {
+                "platformId": 13,
+                "platformName": "ps4",
+                "size": 0
+              }
+            ],
+            "preorder_placeholder_flag": false,
+            "size": 0,
+            "subType": 0,
+            "subtitle_language_codes": null,
+            "type": 5,
+            "use_count": 0,
+            "voice_language_codes": null
+          }
+        ],
+        "id": "EP0082-CUSA24496_00-LOMPS4EU00000001-E001",
+        "is_original": false,
+        "name": "Игра",
+        "platforms": [
+          0,
+          18,
+          10,
+          13
+        ],
+        "playability_date": "2021-06-23T21:00:00Z",
+        "price": 214900,
+        "rewards": [],
+        "seasonPassExclusiveFlag": false,
+        "skuAvailabilityOverrideFlag": false,
+        "sku_type": 6,
+        "type": "pre-order",
+        "wallet_charge_date": "2021-06-23T21:00:00Z"
+      },
+      "gameContentTypesList": [
+        {
+          "name": "Полная версия",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Полная версия",
+      "id": "EP0082-CUSA24496_00-LOMPS4EU00000001",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/9X9ueJEM8KfjMoxzsRJc1Nll.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/p4zsrjLeKcC0gD3A8aVHPlUa.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202102/0303/geiTbITRmhpbih9EnJZLZBf6.png"
+        }
+      ],
+      "name": "Legend of Mana",
+      "playable_platform": [
+        "PS4™"
+      ],
+      "provider_name": "Square Enix LTD",
+      "release_date": "2021-06-24T00:00:00Z",
+      "restricted": false,
+      "revision": 3,
+      "short_name": "Legend of Mana",
+      "timestamp": 1613607232000,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP0082-CUSA24496_00-LOMPS4EU00000001/1613607232"
+    },
+    {
+      "bucket": "games",
+      "container_type": "product",
+      "content_type": "1",
+      "gameContentTypesList": [
+        {
+          "name": "Полная версия",
+          "key": "FULL_GAME"
+        }
+      ],
+      "game_contentType": "Полная версия",
+      "id": "EP1018-PPSA01696_00-BACK4BLOOD000000",
+      "images": [
+        {
+          "type": 10,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png"
+        },
+        {
+          "type": 12,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202011/2021/UoWk3wsa1ZrpSj5zWmYzwru5.png"
+        },
+        {
+          "type": 13,
+          "url": "https://vulcan.dl.playstation.net/ap/rnd/202011/2021/hCmzkSgfHjFg2X7uh4i1jk6b.png"
+        }
+      ],
+      "name": "Back 4 Blood: Стандартное издание PS4 and PS5",
+      "playable_platform": [
+        "PS5"
+      ],
+      "provider_name": "Warner Bros. Interactive",
+      "release_date": "2021-06-22T00:00:00Z",
+      "restricted": false,
+      "revision": 9,
+      "short_name": "Back 4 Blood: Стандартное издание PS4 & PS5",
+      "timestamp": 1610564907000,
+      "top_category": "downloadable_game",
+      "url": "https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP1018-PPSA01696_00-BACK4BLOOD000000/1610564907"
+    }
+  ],
+  "long_desc": "na",
+  "metadata": {},
+  "name": "Все игры",
+  "promomedia": [],
+  "restricted": false,
+  "revision": 32,
+  "scene_layout": {
+    "id": 122,
+    "catalogEntryId": "STORE-MSF75508-FULLGAMES",
+    "storeFrontId": 0,
+    "templateId": 51,
+    "subScenes": [],
+    "storeTypeId": 1
+  },
+  "size": 2,
+  "sku_links": [],
+  "sort_default": "release_date",
+  "sort_default_direction": "desc",
+  "start": 0,
+  "template_def": {
+    "name": "Chihiro Facet Set 21",
+    "id": 51,
+    "storeTypeId": 1,
+    "imageUrl": null,
+    "locations": [
+      {
+        "id": 88,
+        "name": null,
+        "width": "0",
+        "height": "0",
+        "offsetX": "0",
+        "offsetY": "0",
+        "widgets": null
+      },
+      {
+        "id": 1114,
+        "name": null,
+        "width": "0",
+        "height": "0",
+        "offsetX": "0",
+        "offsetY": "0",
+        "widgets": [
+          {
+            "name": null,
+            "id": 3,
+            "tag": null,
+            "width": null,
+            "height": null,
+            "offsetX": null,
+            "offsetY": null,
+            "order": "1",
+            "locationWidgetId": 5774566,
+            "nsx_space": null
+          }
+        ]
+      }
+    ],
+    "extras": [
+      {
+        "templateExtraId": 1881,
+        "width": 1800,
+        "height": 1200,
+        "name": null,
+        "key": "CH-BACKGROUND"
+      }
+    ]
+  },
+  "timestamp": 1566383189000,
+  "total_results": 7396
+}
