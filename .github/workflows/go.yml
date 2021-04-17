@@ -7,9 +7,10 @@ on:
     branches: [ main ]
 
 jobs:
-
-  build:
+  test:
     runs-on: ubuntu-latest
+    env:
+      CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
     steps:
     - uses: actions/checkout@v2
 
@@ -18,5 +19,12 @@ jobs:
       with:
         go-version: 1.15
 
-    - name: Test
-      run: go test -v ./...
+    - name: Run test
+      run: go test -race -coverprofile=coverage.out.tmp -covermode=atomic ./...
+
+    - name: Coverage
+      run: cat coverage.out.tmp | grep -v "mock_" > coverage.out
+
+    - name: Upload coverage to Codecov
+      run: bash <(curl -s https://codecov.io/bash)
+
