@@ -1,11 +1,19 @@
 # Playstation store API client
 
+[![GitHub Test Badge](https://github.com/EvgenyGavrilov/psnclient/workflows/Go/badge.svg)](https://github.com/EvgenyGavrilov/psnclient/actions)
+[![codecov](https://codecov.io/gh/EvgenyGavrilov/psnclient/branch/main/graph/badge.svg?token=NGLW7QW30X)](https://codecov.io/gh/EvgenyGavrilov/psnclient)
+
 Клиент для скачивания игр из магазина playstation.  
 Включает в себя:
 * получение списка игр
 * получение полной информации об игре по идентификатору или заранее известному URL
 
 Клиент создан на основе готового [psn-swagger](https://github.com/olegshulyakov/psn-swagger)
+
+## Установка
+```shell script
+go get github.com/EvgenyGavrilov/psnclient
+```
 
 ## Пример использования
 **Получение списка игр**
@@ -15,8 +23,8 @@ package main
 import (
 	"fmt"
 
-	"psnclient"
-	"psnclient/models"
+	"github.com/EvgenyGavrilov/psnclient"
+	"github.com/EvgenyGavrilov/psnclient/models"
 )
 
 func main() {
@@ -54,8 +62,8 @@ package main
 import (
 	"fmt"
 
-	"psnclient"
-	"psnclient/models"
+	"github.com/EvgenyGavrilov/psnclient"
+	"github.com/EvgenyGavrilov/psnclient/models"
 )
 
 func main() {
